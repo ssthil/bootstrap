@@ -5,3 +5,10 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.navbarbg{
+background-color: #21173C;
+}
+.bannerbg{
+	background-color: #6f5499;
+	color: #fff;
+	}
