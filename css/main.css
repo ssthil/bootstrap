@@ -6,9 +6,28 @@ body {
   text-align: center;
 }
 .navbarbg{
-background-color: #202425;
+background-color: #202425-1;
 }
 .bannerbg{
-	background-color: #5393A7;
+	background-color: #2AADCE-1;
 	color: #fff;
 	}
+/***** Bootstrap customization ******/
+.bs-docs-sidenav>li>a{
+	background: #F5F8FA;
+color: #8E9294;
+}
+.nav>li>a:hover, .nav>li>a:focus {
+text-decoration: none;
+background-color: #2AADCE;
+color: #fff;
+}
+.bs-callout {
+margin: 20px 0;
+padding: 20px;
+border-left: 3px solid #eee;
+}
+.bs-callout-warning {
+background-color: #fcf8f2;
+border-color: #f0ad4e;
+}
