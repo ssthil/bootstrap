@@ -13,6 +13,6 @@ $(function(){
                 $thisLi.addClass('active');
         }
 
-    })
+    }) 
 
 })
